@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img">
+  <title>Riverside Fellowship building</title>
+  <rect width="800" height="600" fill="#F6E6D6"/>
+  <circle cx="130" cy="90" r="34" fill="#F0C14D"/>
+  <rect y="430" width="800" height="170" fill="#E7D7C0"/>
+  <rect x="250" y="168" width="300" height="270" fill="#F4EBDD" stroke="#6B2430" stroke-width="8"/>
+  <path d="M220 176 L400 62 L580 176 H530 V168 H270 V176 Z" fill="#6B2430"/>
+  <rect x="388" y="28" width="24" height="48" fill="#6B2430"/>
+  <rect x="376" y="40" width="48" height="16" fill="#6B2430"/>
+  <rect x="292" y="210" width="52" height="110" fill="#F7E7C3" stroke="#6B2430" stroke-width="6"/>
+  <rect x="456" y="210" width="52" height="110" fill="#F7E7C3" stroke="#6B2430" stroke-width="6"/>
+  <rect x="360" y="300" width="80" height="138" fill="#4E1820"/>
+  <circle cx="424" cy="372" r="4" fill="#C4A265"/>
+  <rect x="70" y="250" width="36" height="180" fill="#6A4632"/>
+  <circle cx="88" cy="210" r="70" fill="#2F5E45"/>
+  <circle cx="46" cy="250" r="36" fill="#3E7354"/>
+  <circle cx="130" cy="246" r="40" fill="#2F5E45"/>
+  <path d="M400 470 C470 500 560 490 640 470" fill="none" stroke="#C4A265" stroke-width="8"/>
+  <rect x="300" y="448" width="200" height="18" fill="#E5D3B8"/>
+  <text x="400" y="560" text-anchor="middle" fill="#6B2430" font-family="Noto Serif, serif" font-size="28" font-weight="700">RIVERSIDE FELLOWSHIP</text>
+</svg>

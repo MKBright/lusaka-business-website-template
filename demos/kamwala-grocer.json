@@ -1,0 +1,163 @@
+{
+  "demoId": "kamwala",
+  "fictional": true,
+  "fictionalNote": "Kamwala Corner Grocer is not a real shop. The prices, phone number, and mobile-money numbers are made up for this sample.",
+  "name": "Kamwala Corner Grocer",
+  "tagline": "Daily basics for the neighbourhood: mealie meal, vegetables, oil, and airtime.",
+  "greeting": "Muli bwanji",
+  "greetingLang": "ny",
+  "schemaType": "GroceryStore",
+  "heroCaption": "Sample drawing. Replace it with a photograph.",
+  "logo": {
+    "src": "assets/logos/kamwala.svg",
+    "alt": "Kamwala Corner Grocer logo"
+  },
+  "favicon": "assets/logos/kamwala.svg",
+  "theme": {
+    "primary": "#0F5132",
+    "onPrimary": "#FFFFFF",
+    "accent": "#E0A100",
+    "ink": "#1C1915",
+    "paper": "#F4EFE4",
+    "muted": "#5C564C",
+    "soft": "#E7F2EC"
+  },
+  "labels": {
+    "services": "Price list",
+    "servicesIntro": "Everyday goods. Sample prices are in Zambian kwacha.",
+    "gallery": "The shop",
+    "hours": "Opening hours",
+    "location": "Find the shop",
+    "contact": "Call or WhatsApp",
+    "payments": "Pay the shop directly",
+    "paymentNote": "Send the money to the shop's own MTN MoMo or Airtel Money number. This page does not take the payment itself."
+  },
+  "services": [
+    {
+      "name": "Mealie meal, 25kg",
+      "detail": "Roller meal, the usual breakfast bag.",
+      "priceZmw": 280
+    },
+    {
+      "name": "Cooking oil, 2 litres",
+      "detail": "Bottled vegetable oil.",
+      "priceZmw": 95
+    },
+    {
+      "name": "Sugar, 2kg",
+      "detail": "White sugar.",
+      "priceZmw": 48
+    },
+    {
+      "name": "Bread, one loaf",
+      "detail": "When the morning delivery has come.",
+      "priceZmw": 18
+    },
+    {
+      "name": "Eggs, tray of 30",
+      "detail": "Ask if you want a half tray.",
+      "priceZmw": 65
+    },
+    {
+      "name": "Tomatoes, per kg",
+      "detail": "Local, when the market has them.",
+      "priceZmw": 15
+    },
+    {
+      "name": "Onions, per kg",
+      "detail": "Sold loose.",
+      "priceZmw": 18
+    },
+    {
+      "name": "Rape, per bundle",
+      "detail": "Leafy greens.",
+      "priceZmw": 8
+    },
+    {
+      "name": "Kapenta, small pack",
+      "detail": "Dried, ready to cook.",
+      "priceZmw": 30
+    },
+    {
+      "name": "Airtime",
+      "detail": "Airtel or MTN, sent from the counter.",
+      "priceZmw": null,
+      "priceLabel": "From K5"
+    },
+    {
+      "name": "Delivery in Kamwala",
+      "detail": "By bicycle, same day, while the shop is open.",
+      "priceZmw": 20
+    }
+  ],
+  "hours": [
+    { "day": "Monday", "open": "07:00", "close": "20:00" },
+    { "day": "Tuesday", "open": "07:00", "close": "20:00" },
+    { "day": "Wednesday", "open": "07:00", "close": "20:00" },
+    { "day": "Thursday", "open": "07:00", "close": "20:00" },
+    { "day": "Friday", "open": "07:00", "close": "20:00" },
+    { "day": "Saturday", "open": "07:00", "close": "20:00" },
+    { "day": "Sunday", "open": "08:00", "close": "13:00" }
+  ],
+  "gallery": [
+    {
+      "src": "assets/photos/kamwala-front.svg",
+      "alt": "Illustrated storefront with a green and gold awning, a sign reading Kamwala Corner, and crates of tomatoes on the pavement.",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "assets/photos/kamwala-produce.svg",
+      "alt": "Illustrated crates of tomatoes, onions, and bundles of rape leaves.",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "assets/photos/kamwala-shelves.svg",
+      "alt": "Illustrated shop shelves holding mealie meal, cooking oil, and sugar.",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "location": {
+    "address": "Stand 48, off Independence Avenue",
+    "area": "Kamwala",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "hint": "From Kamwala market, walk towards Independence Avenue and look for the green awning on the corner.",
+    "lat": -15.4298,
+    "lng": 28.2876
+  },
+  "contact": {
+    "phone": "+260970000148",
+    "phoneDisplay": "097 000 0148",
+    "whatsapp": "0970000148",
+    "whatsappMessage": "Hello Kamwala Corner Grocer, I saw your fictional demo website and I would like to ask about your prices.",
+    "email": "hello@example.com"
+  },
+  "payments": [
+    {
+      "provider": "MTN MoMo",
+      "number": "096 000 0148"
+    },
+    {
+      "provider": "Airtel Money",
+      "number": "097 000 0148"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Facebook",
+      "url": "https://example.com/kamwala-corner-grocer"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://example.com/kamwala-corner-grocer-photos"
+    }
+  ],
+  "seo": {
+    "title": "Kamwala Corner Grocer | Kamwala, Lusaka",
+    "description": "Fictional grocery shop in Kamwala, Lusaka. Prices in kwacha, opening hours, a map, phone, and WhatsApp.",
+    "image": "assets/photos/kamwala-front.svg"
+  }
+}

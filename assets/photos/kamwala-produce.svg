@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img">
+  <title>Crates of tomatoes, onions, and greens</title>
+  <rect width="800" height="600" fill="#F3E6CF"/>
+  <rect x="36" y="70" width="220" height="460" rx="6" fill="#C4841D" stroke="#1C1915" stroke-width="6"/>
+  <rect x="290" y="70" width="220" height="460" rx="6" fill="#A56B32" stroke="#1C1915" stroke-width="6"/>
+  <rect x="544" y="70" width="220" height="460" rx="6" fill="#8C6239" stroke="#1C1915" stroke-width="6"/>
+  <g fill="#C4452D">
+    <circle cx="92" cy="150" r="34"/>
+    <circle cx="160" cy="146" r="34"/>
+    <circle cx="214" cy="168" r="30"/>
+    <circle cx="110" cy="214" r="32"/>
+    <circle cx="176" cy="220" r="34"/>
+    <circle cx="86" cy="280" r="30"/>
+    <circle cx="150" cy="286" r="34"/>
+    <circle cx="214" cy="270" r="28"/>
+    <circle cx="120" cy="348" r="32"/>
+    <circle cx="188" cy="352" r="30"/>
+    <circle cx="96" cy="414" r="30"/>
+    <circle cx="168" cy="420" r="34"/>
+    <circle cx="214" cy="390" r="26"/>
+  </g>
+  <g fill="#E6D2A8" stroke="#C4A265" stroke-width="4">
+    <circle cx="350" cy="160" r="36"/>
+    <circle cx="430" cy="150" r="34"/>
+    <circle cx="392" cy="214" r="36"/>
+    <circle cx="340" cy="276" r="32"/>
+    <circle cx="414" cy="286" r="36"/>
+    <circle cx="470" cy="240" r="28"/>
+    <circle cx="360" cy="350" r="34"/>
+    <circle cx="438" cy="356" r="32"/>
+    <circle cx="390" cy="420" r="36"/>
+    <circle cx="332" cy="430" r="26"/>
+    <circle cx="456" cy="424" r="28"/>
+  </g>
+  <g fill="#2E7D4F">
+    <ellipse cx="620" cy="160" rx="48" ry="22" transform="rotate(-18 620 160)"/>
+    <ellipse cx="690" cy="188" rx="48" ry="22" transform="rotate(16 690 188)"/>
+    <ellipse cx="640" cy="230" rx="50" ry="22" transform="rotate(-8 640 230)"/>
+    <ellipse cx="700" cy="260" rx="46" ry="20" transform="rotate(20 700 260)"/>
+    <ellipse cx="610" cy="300" rx="48" ry="22" transform="rotate(-24 610 300)"/>
+    <ellipse cx="680" cy="330" rx="50" ry="22" transform="rotate(10 680 330)"/>
+    <ellipse cx="630" cy="390" rx="48" ry="22" transform="rotate(-12 630 390)"/>
+    <ellipse cx="704" cy="410" rx="44" ry="20" transform="rotate(18 704 410)"/>
+    <ellipse cx="650" cy="460" rx="50" ry="22" transform="rotate(-6 650 460)"/>
+  </g>
+  <path d="M36 250 H256 M36 390 H256 M290 240 H510 M290 400 H510 M544 230 H764 M544 380 H764" stroke="#1C1915" stroke-width="5" opacity="0.35"/>
+</svg>

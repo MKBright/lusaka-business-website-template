@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img">
+  <title>Sanctuary with pews and a cross</title>
+  <rect width="800" height="600" fill="#F7F0E8"/>
+  <rect x="70" y="40" width="660" height="520" fill="#F3E6D8"/>
+  <rect x="300" y="70" width="200" height="250" fill="#F7E7C3"/>
+  <rect x="392" y="110" width="16" height="120" fill="#6B2430"/>
+  <rect x="352" y="150" width="96" height="16" fill="#6B2430"/>
+  <polygon points="80,430 400,300 720,430 720,540 80,540" fill="#E7D3B8"/>
+  <g fill="#6A4632">
+    <polygon points="120,470 250,400 270,400 150,470"/>
+    <polygon points="120,500 250,430 270,430 150,500"/>
+    <polygon points="120,530 250,460 270,460 150,530"/>
+    <polygon points="680,470 550,400 530,400 650,470"/>
+    <polygon points="680,500 550,430 530,430 650,500"/>
+    <polygon points="680,530 550,460 530,460 650,530"/>
+  </g>
+  <rect x="360" y="360" width="80" height="16" fill="#C4A265"/>
+  <rect x="110" y="80" width="36" height="150" fill="#F7E7C3" stroke="#6B2430" stroke-width="4"/>
+  <rect x="654" y="80" width="36" height="150" fill="#F7E7C3" stroke="#6B2430" stroke-width="4"/>
+</svg>

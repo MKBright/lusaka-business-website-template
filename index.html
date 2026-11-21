@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <!--
+    Lusaka business website template.
+    The sample shown here is read from the site-config meta below.
+    For a real client: copy a file from demos/ to site.json, edit it,
+    then set site-config to site.json. Update the title and description
+    too — link previews read these tags and do not run JavaScript.
+    Paths stay relative so GitHub Pages can serve the repo subfolder.
+  -->
+  <title>Kamwala Corner Grocer | Kamwala, Lusaka</title>
+  <meta name="description" content="Fictional grocery shop in Kamwala, Lusaka. Prices in kwacha, opening hours, a map, phone, and WhatsApp.">
+  <meta name="theme-color" content="#0F5132">
+  <meta name="site-config" content="demos/kamwala-grocer.json">
+  <meta name="geo.region" content="ZM-09">
+  <meta name="geo.placename" content="Lusaka">
+  <meta property="og:title" content="Kamwala Corner Grocer | Kamwala, Lusaka">
+  <meta property="og:description" content="Fictional grocery shop in Kamwala, Lusaka. Prices in kwacha, opening hours, a map, phone, and WhatsApp.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:image" content="assets/photos/kamwala-front.svg">
+  <meta property="og:image:alt" content="Illustrated storefront with a green and gold awning, a sign reading Kamwala Corner, and crates of tomatoes on the pavement.">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/logos/kamwala.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div id="app">
+    <main id="main">
+      <p class="loading wrap">Loading…</p>
+    </main>
+  </div>
+  <noscript>
+    <main class="wrap">
+      <h1>JavaScript is needed for this site</h1>
+      <p>The page fills in the business name, prices, hours, map, and contact buttons from a config file. Turn on JavaScript, then reload.</p>
+    </main>
+  </noscript>
+  <script src="js/sitekit.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
