@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img">
+  <title>Shelves of mealie meal, oil, and sugar</title>
+  <rect width="800" height="600" fill="#F7F1E6"/>
+  <rect x="40" y="36" width="720" height="528" fill="#E7EFEA" stroke="#0F5132" stroke-width="8"/>
+  <rect x="70" y="176" width="660" height="16" fill="#8C6239"/>
+  <rect x="70" y="352" width="660" height="16" fill="#8C6239"/>
+  <rect x="70" y="520" width="660" height="16" fill="#8C6239"/>
+  <g>
+    <rect x="96" y="78" width="70" height="98" fill="#0F5132"/>
+    <rect x="180" y="78" width="70" height="98" fill="#146B45"/>
+    <rect x="264" y="78" width="70" height="98" fill="#0F5132"/>
+    <rect x="348" y="86" width="54" height="90" fill="#F4EFE4" stroke="#0F5132" stroke-width="4"/>
+    <rect x="416" y="86" width="54" height="90" fill="#F4EFE4" stroke="#0F5132" stroke-width="4"/>
+    <rect x="484" y="96" width="46" height="80" rx="16" fill="#E0A100"/>
+    <rect x="544" y="96" width="46" height="80" rx="16" fill="#C4841D"/>
+    <rect x="604" y="96" width="46" height="80" rx="16" fill="#E0A100"/>
+    <rect x="664" y="104" width="40" height="72" fill="#F7F3EA" stroke="#1C1915" stroke-width="3"/>
+  </g>
+  <g>
+    <rect x="100" y="230" width="86" height="122" fill="#F4EFE4" stroke="#0F5132" stroke-width="4"/>
+    <rect x="200" y="230" width="86" height="122" fill="#F4EFE4" stroke="#0F5132" stroke-width="4"/>
+    <rect x="300" y="214" width="36" height="138" rx="12" fill="#1C1915"/>
+    <rect x="348" y="214" width="36" height="138" rx="12" fill="#C4841D"/>
+    <rect x="396" y="214" width="36" height="138" rx="12" fill="#1C1915"/>
+    <rect x="460" y="250" width="100" height="102" fill="#E7F2EC" stroke="#0F5132" stroke-width="4"/>
+    <rect x="576" y="250" width="100" height="102" fill="#E7F2EC" stroke="#0F5132" stroke-width="4"/>
+  </g>
+  <text x="400" y="455" text-anchor="middle" fill="#0F5132" font-family="Noto Serif, serif" font-size="42" font-weight="700">MEALIE · OIL · SUGAR</text>
+  <text x="131" y="136" text-anchor="middle" fill="#F4EFE4" font-family="Noto Sans, sans-serif" font-size="11" font-weight="700">25KG</text>
+  <text x="215" y="136" text-anchor="middle" fill="#F4EFE4" font-family="Noto Sans, sans-serif" font-size="11" font-weight="700">25KG</text>
+  <text x="299" y="136" text-anchor="middle" fill="#F4EFE4" font-family="Noto Sans, sans-serif" font-size="11" font-weight="700">25KG</text>
+</svg>

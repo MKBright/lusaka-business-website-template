@@ -1,0 +1,153 @@
+{
+  "demoId": "chapel",
+  "fictional": true,
+  "fictionalNote": "Riverside Fellowship Lusaka is not a real church. The service times, hall-hire prices, phone number, and mobile-money numbers are made up for this sample.",
+  "name": "Riverside Fellowship Lusaka",
+  "tagline": "A Sunday service, a midweek Bible study, and a hall the community can book.",
+  "greeting": "You are welcome",
+  "greetingLang": "en",
+  "schemaType": "Church",
+  "heroCaption": "Sample drawing. Replace it with a photograph.",
+  "logo": {
+    "src": "assets/logos/chapel.svg",
+    "alt": "Riverside Fellowship logo"
+  },
+  "favicon": "assets/logos/chapel.svg",
+  "theme": {
+    "primary": "#6B2430",
+    "onPrimary": "#FFFFFF",
+    "accent": "#C4A265",
+    "ink": "#241816",
+    "paper": "#F7F0E8",
+    "muted": "#5E534C",
+    "soft": "#F8E8EA"
+  },
+  "labels": {
+    "services": "Services and hall hire",
+    "servicesIntro": "Worship is free. Hall hire is listed in Zambian kwacha.",
+    "gallery": "The fellowship",
+    "hours": "When we meet",
+    "location": "Find the hall",
+    "contact": "Call or WhatsApp",
+    "payments": "Offerings and hall hire",
+    "paymentNote": "Offerings and hall-hire payments go to the fellowship's own mobile-money numbers. This page does not take the payment itself."
+  },
+  "services": [
+    {
+      "name": "Sunday worship",
+      "detail": "08:00 and 10:30. Everyone is welcome.",
+      "priceZmw": null
+    },
+    {
+      "name": "Sunday school",
+      "detail": "Children meet during the 10:30 service.",
+      "priceZmw": null
+    },
+    {
+      "name": "Wednesday Bible study",
+      "detail": "18:00 in the hall.",
+      "priceZmw": null
+    },
+    {
+      "name": "Youth fellowship",
+      "detail": "Saturdays at 15:00.",
+      "priceZmw": null
+    },
+    {
+      "name": "Choir practice",
+      "detail": "Thursdays at 17:30.",
+      "priceZmw": null
+    },
+    {
+      "name": "Hall hire, half day",
+      "detail": "Chairs and tables included.",
+      "priceZmw": 400
+    },
+    {
+      "name": "Hall hire, full day",
+      "detail": "Until 18:00. Music ends by 17:30.",
+      "priceZmw": 700
+    },
+    {
+      "name": "Wedding service",
+      "detail": "Preparation and the ceremony. Hall hire is separate.",
+      "priceZmw": 500
+    },
+    {
+      "name": "Thanksgiving service",
+      "detail": "A short service with the family.",
+      "priceZmw": null,
+      "priceLabel": "Gift"
+    }
+  ],
+  "hours": [
+    { "day": "Sunday", "open": "07:30", "close": "12:30" },
+    { "day": "Monday", "open": null, "close": null },
+    { "day": "Tuesday", "open": null, "close": null },
+    { "day": "Wednesday", "open": "17:30", "close": "19:30" },
+    { "day": "Thursday", "open": "17:00", "close": "19:00" },
+    { "day": "Friday", "open": null, "close": null },
+    { "day": "Saturday", "open": "14:30", "close": "17:00" }
+  ],
+  "gallery": [
+    {
+      "src": "assets/photos/chapel-exterior.svg",
+      "alt": "Illustrated plaster church with a burgundy roof, a cross, and a gum tree.",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "assets/photos/chapel-sanctuary.svg",
+      "alt": "Illustrated sanctuary with wooden pews, tall windows, and a cross on the wall.",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "assets/photos/chapel-hall.svg",
+      "alt": "Illustrated hall with rows of chairs, a table, and a stack of hymn books.",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "location": {
+    "address": "Plot 22, off Kafue Road",
+    "area": "Libala",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "hint": "Off Kafue Road in Libala, beside the tall gum tree.",
+    "lat": -15.4492,
+    "lng": 28.3074
+  },
+  "contact": {
+    "phone": "+260970000226",
+    "phoneDisplay": "097 000 0226",
+    "whatsapp": "0970000226",
+    "whatsappMessage": "Hello Riverside Fellowship, I saw your fictional demo website and I would like to ask about service times.",
+    "email": "hello@example.com"
+  },
+  "payments": [
+    {
+      "provider": "MTN MoMo",
+      "number": "096 000 0226"
+    },
+    {
+      "provider": "Airtel Money",
+      "number": "097 000 0226"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Facebook",
+      "url": "https://example.com/riverside-fellowship-lusaka"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://example.com/riverside-fellowship-lusaka-services"
+    }
+  ],
+  "seo": {
+    "title": "Riverside Fellowship | Libala, Lusaka",
+    "description": "Fictional church in Libala, Lusaka. Sunday worship, hall hire in kwacha, a map, phone, and WhatsApp.",
+    "image": "assets/photos/chapel-exterior.svg"
+  }
+}

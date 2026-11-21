@@ -1,0 +1,11 @@
+{
+  "name": "lusaka-business-website-template",
+  "private": true,
+  "description": "Phone-first website template for small Lusaka businesses.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
